@@ -1,0 +1,4 @@
+﻿  AutoClicker+.cpp
+C:\Users\Ryan\source\repos\AutoClicker+\AutoClicker+.cpp(64,30): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Ryan\source\repos\AutoClicker+\AutoClicker+.cpp(81,22): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  AutoClicker+.vcxproj -> C:\Users\Ryan\source\repos\AutoClicker+\x64\Debug\AutoClicker+.exe
